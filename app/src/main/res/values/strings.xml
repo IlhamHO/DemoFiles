@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Files</string>
+    <string name="txt_lbl_textinput">Input</string>
+    <string name="text_btn_read">Read from file</string>
+    <string name="text_btn_write">Write to file</string>
+    <string name="text_lbl_input">Your text</string>
+</resources>
